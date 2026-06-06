@@ -67,3 +67,7 @@ de modelos, curvas ROC, matriz de confusión y los resultados de PCA y UMAP.
 
 El reporte completo con la metodología, los resultados y la discusión se encuentra en
 `Informe_final.pdf`.
+
+## Video exposición
+https://drive.google.com/file/d/1DnhWS6tdj5I_SyGueCnmis9dxcc1CxvX/view?usp=sharing
+
